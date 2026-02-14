@@ -1,0 +1,21 @@
+# Supabase Configuration
+NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
+SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
+
+# AI Integration
+OPENAI_API_KEY=your_openai_api_key
+ANTHROPIC_API_KEY=your_anthropic_api_key
+
+# External APIs
+SKYSCANNER_API_KEY=your_skyscanner_api_key
+HOSTELWORLD_API_KEY=your_hostelworld_api_key
+TOURRADAR_API_KEY=your_tourradar_api_key
+FAREHARBOR_API_KEY=your_fareharbor_api_key
+OPENWEATHERMAP_API_KEY=your_openweathermap_api_key
+
+# Redis (for caching)
+REDIS_URL=your_redis_url
+
+# Additional Services
+LANGGRAPH_API_KEY=your_langgraph_api_key
